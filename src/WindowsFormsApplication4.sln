@@ -1,9 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication4", "c:\users\sam\documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4.csproj", "{682BD2CD-4EA5-4F15-909C-3B05057BD0D0}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "attendance", "attendance", "{E942A256-2BB0-4700-9635-64A151AF6B3D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication4", "WindowsFormsApplication4\WindowsFormsApplication4.csproj", "{682BD2CD-4EA5-4F15-909C-3B05057BD0D0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
