@@ -8,19 +8,19 @@ I. INSTRUCTIONS:
 -------------
 To use this application, follow the following steps:-
 
-1.FOR EXPERTS (familiar with .NET framework):
+*FOR EXPERTS (familiar with .NET framework):
 ------------------------------------------
-a.  You can clone the project
-b.	Inside my “src” folder contains all the project files generated in the project.
-c.	So, you know where the source codes and application.exe files are.
+1.  You can clone the project
+2.	Inside my “src” folder contains all the project files generated in the project.
+3.	So, you know where the source codes and application.exe files are.
 
 
-2.FOR NEW USERS (Less familiar with .NET frameworks) :
+*FOR NEW USERS (Less familiar with .NET frameworks) :
 -------------------------------------------------------
-a.	Download the project (Click on “ZIP” button in the project tab).
-b.	Unzip in your system
-c.	Open “db” folder, and copy the database “attendance” to “c:” drive as it is.(Mandatory, don’t keep inside any folders)
-d.	Open/Run the application “AttendanceSystemApp” (three-globes-green icon).
+1.	Download the project (Click on “ZIP” button in the project tab).
+2.	Unzip in your system
+3.	Open “db” folder, and copy the database “attendance” to “c:” drive as it is.(Mandatory, don’t keep inside any folders)
+4.	Open/Run the application “AttendanceSystemApp” (three-globes-green icon).
 
 
 II. FEATURES:
