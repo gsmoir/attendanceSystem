@@ -10,8 +10,8 @@ To use this application, follow the following steps:-
 
 *FOR EXPERTS (familiar with .NET framework):
 ------------------------------------------
-1.  You can clone the project
-2.	Inside my “src” folder contains all the project files generated in the project.
+1.  Clone or download zip file of the project.
+2.	Inside my “projectSourceFile” folder contains all the project files generated in the project.
 3.	So, you know where the source codes and application.exe files are.
 
 
